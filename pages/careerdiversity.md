@@ -1,7 +1,7 @@
 ---
-title: Sample New Page
+title: Career Diversity
 layout: page
-permalink: /newpage
+permalink: /careerdiversity
 ---
 
 # Want to add a new page that doesn't exist?
