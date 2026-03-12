@@ -1,5 +1,5 @@
 ---
-title: Our Collection
+title: Community Engaged Research
 layout: collection
 permalink: /collection
 ---
