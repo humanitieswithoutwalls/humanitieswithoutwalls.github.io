@@ -1,7 +1,7 @@
 ---
 title: Community Engaged Research
 layout: collection
-permalink: /collection
+permalink: /communityengagedresearch
 ---
 
 {{site.description}}
