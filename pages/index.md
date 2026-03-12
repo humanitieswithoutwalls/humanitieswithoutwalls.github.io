@@ -1,17 +1,16 @@
 ---
-title: IDAH Community Archiving Template
+title: Humanities Without Walls Toolkits
 layout: homepage
 permalink: /
 ---
+As HWW's Mellon funding draws to a close, these toolkits were developed to pull together and house in a central location for continued use things learned and resources developed/shared over the course of the last 15 years. Each toolkit was constructed according to two guiding questions:
 
-The Archiving Out of the Box team supports community storytelling with a  digital archiving and storytelling kit. This demo site has examples of 3 different kinds of community contributions: scanned/screencaptured documents, photos of objects, and vidoes.
+1) What do I need to know to do XYZ?
 
-Visit our main site for information on how to build relationships, hold community-storytelling collection events, build the collection using our template site, and use community stories for practical community-improvement projects.
+2) What do I physically need in order to do XYZ?
 
-Our team got its start at the [Institute for Digital Arts and Humanities](https://idah.indiana.edu/) at Indiana University Bloomington and is now funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024).
+With materials and insights from HWW initiatives, these three toolkits offer guides and resources for forging diverse career paths, running programs for PhD student internships with local community partners, and doing community-engaged research in responsible and reciprocal manners.
 
-Principal Project Team:
-- Michelle Dalmau
-- Vanessa Elias
-- Kalani Craig
-- Jazma Sutton
+---
+
+
