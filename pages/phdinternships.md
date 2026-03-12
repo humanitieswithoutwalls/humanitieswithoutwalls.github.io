@@ -1,6 +1,6 @@
 ---
 title: PhD Internships
-layout: page
+layout: stories
 permalink: /phdinternships
 ---
 
