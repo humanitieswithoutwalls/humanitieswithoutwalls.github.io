@@ -4,5 +4,5 @@ layout: page
 permalink: /careerdiversity
 ---
 
-PhD Internship toolkit description
+Career Diversity toolkit description
 
