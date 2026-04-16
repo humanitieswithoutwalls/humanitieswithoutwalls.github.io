@@ -9,6 +9,6 @@ permalink: /communityengagedresearch
 ![HWW GRC Project Network](/assets/img/network_cer.png)
 
 # Tools and Resources
-[Tools and Resources Page](humanitieswithoutwalls.github.io/communityengagedresearch/tools)
+[Tools and Resources Page](https://humanitieswithoutwalls.github.io/communityengagedresearch/tools)
 
 # Insights and Tips
