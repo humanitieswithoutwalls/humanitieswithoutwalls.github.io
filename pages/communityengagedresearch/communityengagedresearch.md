@@ -1,6 +1,6 @@
 ---
 title: Community Engaged Research
-layout: page
+layout: collection
 permalink: /communityengagedresearch
 ---
     
@@ -11,4 +11,3 @@ permalink: /communityengagedresearch
 # Tools and Resources
 [Tools and Resources Page](https://humanitieswithoutwalls.github.io/communityengagedresearch/tools)
 
-# Insights and Tips
