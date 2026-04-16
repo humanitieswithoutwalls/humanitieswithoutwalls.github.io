@@ -1,12 +1,6 @@
 ---
 title: Community Engaged Research
 layout: page
-output: 
-  html_document:
-  toc: true
-  toc_float: true
-  toc_collapsed: true
-toc_depth: 3
 permalink: /communityengagedresearch
 ---
     
