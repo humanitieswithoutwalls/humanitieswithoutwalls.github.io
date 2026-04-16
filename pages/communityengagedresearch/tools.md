@@ -1,6 +1,6 @@
 ---
-title: Tools
-layout: page
+title: Tools and Resources
+layout: collection
 permalink: /communityengagedresearch/tools
 ---
 
