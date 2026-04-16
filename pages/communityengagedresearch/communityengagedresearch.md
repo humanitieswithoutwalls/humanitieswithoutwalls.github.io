@@ -1,6 +1,6 @@
 ---
 title: Community Engaged Research
-layout: homepage
+layout: page
 permalink: /communityengagedresearch
 ---
 
