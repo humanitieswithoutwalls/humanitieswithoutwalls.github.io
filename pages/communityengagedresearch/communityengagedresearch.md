@@ -6,10 +6,14 @@ output:
   toc: true
   toc_float: true
   toc_collapsed: true
-toc_depth: 2
+toc_depth: 3
 permalink: /communityengagedresearch
 ---
     
 # Grand Research Challenge Network
 
 ![HWW GRC Project Network](/assets/img/network_cer.png)
+
+# Tools and Resources
+
+# Insights and Tips
