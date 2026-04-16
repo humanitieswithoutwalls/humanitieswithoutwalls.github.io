@@ -4,6 +4,6 @@ layout: page
 permalink: /communityengagedresearch
 ---
 
-# Community Engaged Research toolkit description
+# Grand Research Challenge Network
 
 ![HWW GRC Project Network](/assets/img/network_cer.png)
