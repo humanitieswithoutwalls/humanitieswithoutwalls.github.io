@@ -141,12 +141,12 @@ collections:
     output: true
     permalink: /:collection/:path:output_ext
 # If your collection items need to be grouped by person, family or some other group, uncomment this collection
-#  groups:
-#    output: true
-#    permalink: /:collection/:path:output_ext
-#    name: true
-#    folder: true
-#    sort_by: folder
+  groups:
+    output: true
+    permalink: /:collection/:path:output_ext
+    name: true
+    folder: true
+    sort_by: folder
 # If you have oral histories that go with groups, uncomment this collection:
 #  oralhistories:
 #    output: true
