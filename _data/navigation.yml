@@ -9,6 +9,10 @@
   url: /communityengagedresearch
   excerpt:
   image:
+    - title: Tools
+      url: /tools
+      excerpt:
+      image:
 
 - title: PhD Internships
   url: /phdinternships
